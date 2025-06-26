@@ -45,15 +45,35 @@ Traditional NLP systems often fail to capture **context, sarcasm, and nuanced se
 
 ## 🏗️ System Architecture
 [User Input]
-↓
+->
 [Streamlit UI]
-↓
+->
 [FastAPI Backend]
-↓
+->
 [BERT Tokenizer]
-↓
+->
 [Fine-tuned BERT Model]
-↓
+->
 [Prediction Output]
-↓
+->
 [Streamlit Display UI]
+
+## 🖥️ Installation & Setup
+
+1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/yourusername/bert-sentiment-analyzer.git
+cd bert-sentiment-analyzer
+
+## 🎯 Results
+✅ Achieved high classification accuracy on the IMDB dataset
+✅ Real-time sentiment prediction with confidence score
+✅ Smooth, intuitive UI with minimal latency
+✅ Robust backend and scalable architecture
+
+## 🔗 Connect with Me
+
+💡 Got ideas or suggestions? Let’s collaborate!  
+📧 **Email**: [puneethv.naik29@gmail.com](mailto:puneethv.naik29@gmail.com)  
+🔗 **LinkedIn**: [Puneeth V Naik](https://www.linkedin.com/in/puneeth-v-naik/)
+
