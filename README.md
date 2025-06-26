@@ -44,4 +44,16 @@ Traditional NLP systems often fail to capture **context, sarcasm, and nuanced se
 ---
 
 ## 🏗️ System Architecture
-<pre><code> [User Input] ↓ [Streamlit UI] ↓ [FastAPI Backend] ↓ [BERT Tokenizer] ↓ [Fine-tuned BERT Model] ↓ [Prediction Output] ↓ [Streamlit Display UI] </code></pre>
+[User Input]
+↓
+[Streamlit UI]
+↓
+[FastAPI Backend]
+↓
+[BERT Tokenizer]
+↓
+[Fine-tuned BERT Model]
+↓
+[Prediction Output]
+↓
+[Streamlit Display UI]
