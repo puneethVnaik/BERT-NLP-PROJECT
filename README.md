@@ -58,18 +58,23 @@ Traditional NLP systems often fail to capture **context, sarcasm, and nuanced se
 ->
 [Streamlit Display UI]
 
+---
+
 ## 🖥️ Installation & Setup
 
 1️⃣ **Clone the Repository**
-```bash
 git clone https://github.com/yourusername/bert-sentiment-analyzer.git
 cd bert-sentiment-analyzer
+
+---
 
 ## 🎯 Results
 ✅ Achieved high classification accuracy on the IMDB dataset
 ✅ Real-time sentiment prediction with confidence score
 ✅ Smooth, intuitive UI with minimal latency
 ✅ Robust backend and scalable architecture
+
+---
 
 ## 🔗 Connect with Me
 
